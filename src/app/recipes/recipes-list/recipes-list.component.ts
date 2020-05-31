@@ -11,7 +11,7 @@ export class RecipesListComponent implements OnInit {
     new Recipe(
         'Veggie Burger',
         'Heat up  a veggie burger',
-        'https://assets.bonappetit.com/photos/57acae2d1b33404414975121/16:9/w_5120,c_limit/ultimate-veggie-burger.jpg'),
+        'https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_1460,h_1825/k%2Farchive%2F9fbb73a7cba9b7b75c3d05484f6b6d087470641d'),
     new Recipe(
           'Bleeding Armadillo Cake',
           'Eww, gross!',
