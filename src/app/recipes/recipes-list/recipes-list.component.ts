@@ -18,7 +18,11 @@ export class RecipesListComponent implements OnInit {
     new Recipe(
           'Bleeding Armadillo Cake',
           'Eww, gross!',
-          '/assets/images/__red-velvet-armadillo-cake-33.jpg')
+          '/assets/images/__red-velvet-armadillo-cake-33.jpg'),
+    new Recipe(
+        'Bún Bò Huế',
+        'Đừng hòng',
+        '/assets/images/bun-bo-hue-done2.jpg')
   ];
 
   constructor() { }
